@@ -13,7 +13,7 @@
   <a href="https://scholar.google.com/citations?user=B6NbvyMAAAAJ&hl=en" target="_blank">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=googlescholar&logoColor=white&labelColor=blue&color=blue" />
   </a>
-  <a href="CV_Samuel_Hirst.pdf" target="_blank">
+  <a href="media/Sam_Hirst_CV.pdf" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/CV-PDF-informational?style=flat&logo=adobeacrobatreader" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 <!-- You can upload a PDF image (e.g., a timeline or academic journey) to the repo and link it below -->
 <p align="center">
-  <img src="education_path.pdf" alt="Education Path" width="70%" />
+  <img src="media/SamLogo.pdf" alt="Education Path" width="70%" />
 </p>
 
 Hi, I'm **Sam Hirst** — a Ph.D. candidate in Biology at the University of South Florida.
