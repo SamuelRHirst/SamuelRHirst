@@ -7,11 +7,11 @@
 **Welcome to my GitHub!**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SamuelRHirst/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
   <a href="https://scholar.google.com/citations?user=B6NbvyMAAAAJ&hl=en" target="_blank">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=googlescholar&logoColor=white&labelColor=blue&color=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/SamuelRHirst/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="media/Sam_Hirst_CV.pdf" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/CV-PDF-informational?style=flat&logo=adobeacrobatreader" />
