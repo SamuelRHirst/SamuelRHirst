@@ -41,7 +41,7 @@ Hi, I'm **Sam Hirst** — a Ph.D. candidate in Integrative Biology at the Univer
 
 ## 💻 Experience
 
-I've been building and applying bioinformatics pipelines since 2018 to investigate key questions in **genomics**, **ecology**, and **biostatistics**. Much of my work bridges field biology with computational science, integrating multi-omic datasets in natural populations to study evolutionary processes in non-model organisms.
+I've been building and applying bioinformatics pipelines since 2018 to investigate key questions in **genomics** and **ecology**. Much of my work bridges field biology with computational science, integrating multi-omic datasets in natural populations to study evolutionary processes in non-model organisms.
 
 ## 📂 Repositories
 
