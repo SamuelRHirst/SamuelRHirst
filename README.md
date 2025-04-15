@@ -58,12 +58,11 @@ Although most of my work centers on analysis using established bioinformatics so
 
 | Data Type       | Description                                                                 | Repository |
 |-----------------|-----------------------------------------------------------------------------|------------|
-| Genomics        | HiFi genome assemblies, short-read mapping, variant calling, population genomics | [Example: `hifi-assembly-tools`](https://github.com/samhirst/hifi-assembly-tools) |
-| Transcriptomics | RNA-seq preprocessing, quantification, differential expression              | [Example: `transcriptomics-workflow`](https://github.com/samhirst/transcriptomics-workflow) |
-| Proteomics      | Chromatogram processing, venom complexity calculations, peak quantification | [Example: `hplc-analysis`](https://github.com/samhirst/hplc-analysis) |
-| Custom Scripts  | Helper functions and file converters written in Python or Bash              | [Example: `bioinf-utils`](https://github.com/samhirst/bioinf-utils) |
+| HiFi Genome Assembly & Annotation | HiFi genome assembly and annotation | [`HiFi_Genome_Assembly_and_Annotation`](https://github.com/SamuelRHirst/HiFi_Genome_Assembly_and_Annotation) |
+| Transcriptomics | RNA-seq preprocessing, quantification, differential expression              | [`Transcriptomics`](https://github.com/SamuelRHirst/Transcriptomics) |
+| Custom Scripts  | Helper functions and file converters written in Python or Bash              | [`Custom_Scripts`](https://github.com/SamuelRHirst/Custom_Scripts) |
 
-> These are just examples — stay tuned as I build these out and share them publicly!
+Stay tuned as I build these out and share them publicly!
 
 
 
