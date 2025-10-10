@@ -29,30 +29,30 @@
 
 Hi, I'm **Sam Hirst** — a Ph.D. candidate in Integrative Biology at the University of South Florida.
 
- I study **evolutionary genomics**, **functional trait evolution**, and **venom**, using island populations of rattlesnakes as a model system to test ecological and evolutionary theory. My work integrates **whole-genome sequencing**, **transcriptomics**, **ddRADseq**, **proteomics**, and advanced **statistical modeling** to explore how ecological factors shape functional trait evolution. 
+ I study evolutionary genomics, functional trait evolution, and venom, using island populations of rattlesnakes as a model system to test ecological and evolutionary theory. My work integrates*whole-genome sequencing, transcriptomics, ddRADseq, proteomics, and advanced statistical modeling to explore how ecological factors shape functional trait evolution. 
 
- I develop reproducible workflows using **R**, **Python**, and **shell/Bash scripting**, with experience in **Unix/Linux environments** for high-throughput data processing and bioinformatics pipeline development.
+ I develop reproducible workflows using R, Python, and shell/Bash scripting, with experience in Unix/Linux environments for high-throughput data processing and bioinformatics pipeline development.
 
- My research is grounded in principles of **Island Biogeography Theory** and **trait coevolution**, with a strong emphasis on **fieldwork** and **computational biology**.
+ My research is grounded in principles of Island Biogeography Theory and trait coevolution, with a strong emphasis on fieldwork and computational biology.
 
- I'm passionate about **open science**, **mentorship**, and bridging **basic research** with real-world applications.
+ I'm passionate about open science, mentorship, and bridging basic research with real-world applications.
 
 ---
 
 ##  Experience
 
-I've been building and applying bioinformatics pipelines since 2018 to investigate key questions in **genomics** and **ecology**. Much of my work bridges field biology with computational science, integrating multi-omic datasets in natural populations to study evolutionary processes in non-model organisms.
+I've been building and applying bioinformatics pipelines since 2018 to investigate key questions in genomics and ecology. Much of my work bridges field biology with computational science, integrating multi-omic datasets in natural populations to study evolutionary processes in non-model organisms.
 
 ##  Repositories
 
 My research primarily uses existing tools and pipelines to investigate ecological and evolutionary questions using diverse molecular datasets. These include:
 
--  **Long-read HiFi genome assemblies**
--  **Short-read genomic data** (e.g., ddRADseq, WGS, sequence capture)
--  **Transcriptomics**
--  **Proteomics** (e.g., RP-HPLC venom profiles)
+-  Long-read HiFi genome assemblies
+-  Short-read genomic data (e.g., ddRADseq, WGS, sequence capture)
+-  Transcriptomics
+-  Proteomics (e.g., RP-HPLC venom profiles)
 
-Although most of my work centers on analysis using established bioinformatics software, I occasionally develop **custom Python scripts** to build workflows, reformat datasets, or bridge tools that weren’t originally designed to talk to each other.
+Although most of my work centers on analysis using established bioinformatics software, I occasionally develop custom Python scripts to build workflows, reformat datasets, or bridge tools that weren’t originally designed to talk to each other.
 
 ###  Repositories by Data Type
 
