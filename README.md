@@ -20,7 +20,7 @@
 
 ---
 
-## 👤 Who am I?
+##  Who am I?
 
 <!-- You can upload a PDF image (e.g., a timeline or academic journey) to the repo and link it below -->
 <p align="center">
@@ -43,7 +43,7 @@ Hi, I'm **Sam Hirst** — a Ph.D. candidate in Integrative Biology at the Univer
 
 I've been building and applying bioinformatics pipelines since 2018 to investigate key questions in **genomics** and **ecology**. Much of my work bridges field biology with computational science, integrating multi-omic datasets in natural populations to study evolutionary processes in non-model organisms.
 
-## 📂 Repositories
+##  Repositories
 
 My research primarily uses existing tools and pipelines to investigate ecological and evolutionary questions using diverse molecular datasets. These include:
 
