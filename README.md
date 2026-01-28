@@ -29,7 +29,7 @@
 
 Hi, I'm **Sam Hirst** — a Ph.D. candidate in Integrative Biology at the University of South Florida.
 
- I study evolutionary genomics, functional trait evolution, and venom, using island populations of rattlesnakes as a model system to test ecological and evolutionary theory. My work integrates*whole-genome sequencing, transcriptomics, ddRADseq, proteomics, and advanced statistical modeling to explore how ecological factors shape functional trait evolution. 
+ I study evolutionary genomics, functional trait evolution, and venom, using island populations of rattlesnakes as a model system to test ecological and evolutionary theory. My work integrates whole-genome sequencing, transcriptomics, ddRADseq, proteomics, and advanced statistical modeling to explore how ecological factors shape functional trait evolution. 
 
  I develop reproducible workflows using R, Python, and shell/Bash scripting, with experience in Unix/Linux environments for high-throughput data processing and bioinformatics pipeline development.
 
