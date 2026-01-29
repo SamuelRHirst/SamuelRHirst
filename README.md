@@ -27,7 +27,7 @@
   <img src="media/SamLogo.png" alt="Education Path" width="70%" />
 </p>
 
-Hi, I'm **Sam Hirst** — a Ph.D. candidate in Integrative Biology at the University of South Florida.
+Hi, I'm **Sam Hirst** — a Postdoctoral Researcher at Columbia University.
 
  I study evolutionary genomics, functional trait evolution, and venom, using island populations of rattlesnakes as a model system to test ecological and evolutionary theory. My work integrates whole-genome sequencing, transcriptomics, ddRADseq, proteomics, and advanced statistical modeling to explore how ecological factors shape functional trait evolution. 
 
@@ -65,13 +65,6 @@ Although most of my work centers on analysis using established bioinformatics so
 Stay tuned as I build these out and share them publicly!
 
 
-
-<!-- You can add more experiences below as bullet points, lists, or with icons/logos -->
-<!-- Example:
--  Genomic assembly and annotation (HiFi, Illumina, RADseq)
--  Statistical modeling (mixed effects models, PCoA, PERMANOVA)
--  Field expeditions across the Gulf of California
--->
 
 ---
 
