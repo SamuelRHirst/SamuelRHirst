@@ -27,15 +27,11 @@
   <img src="media/SamLogo.png" alt="Education Path" width="70%" />
 </p>
 
-Hi, I'm **Sam Hirst** — a Postdoctoral Researcher at Columbia University.
+Hi, I'm **Sam Hirst**, a Postdoctoral Researcher at Columbia University.
 
- I study evolutionary genomics, functional trait evolution, and venom, using island populations of rattlesnakes as a model system to test ecological and evolutionary theory. My work integrates whole-genome sequencing, transcriptomics, ddRADseq, proteomics, and advanced statistical modeling to explore how ecological factors shape functional trait evolution. 
+I study evolutionary genomics and functional trait evolution. Currently, I am using pangenomes to explore how structural variants shape seasonal migration in songbirds. Previously, for my PhD at the University of South Florida, I used island populations of rattlesnakes to test if ecological theories of species richness can explain the evolution of trait complexity. My work integrates whole-genome sequencing, transcriptomics, ddRADseq, and proteomics to link genotype to phenotype.
 
- I develop reproducible workflows using R, Python, and shell/Bash scripting, with experience in Unix/Linux environments for high-throughput data processing and bioinformatics pipeline development.
-
- My research is grounded in principles of Island Biogeography Theory and trait coevolution, with a strong emphasis on fieldwork and computational biology.
-
- I'm passionate about open science, mentorship, and bridging basic research with real-world applications.
+I specialize in developing reproducible workflows using shell/Bash scripting, R, and Python, with experience in Unix/Linux environments for high-throughput data processing. I am passionate about open science, mentorship, and bridging basic research with real-world applications.
 
 ---
 
