@@ -1,20 +1,19 @@
-# Samuel R. Hirst
+<h1 align="center">Samuel R. Hirst</h1>
 
----
+<p align="center"><b>Evolution &nbsp;|&nbsp; Genomics &nbsp;|&nbsp; Ecology &nbsp;|&nbsp; Bioinformatics &nbsp;|&nbsp; Conservation</b></p>
 
-**Evolution | Genomics | Ecology | Bioinformatics | Conservation**
-
-**Welcome to my GitHub!**
-
-<p align="left">
+<p align="center">
+  <a href="https://samhirst.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://scholar.google.com/citations?user=B6NbvyMAAAAJ&hl=en" target="_blank">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=googlescholar&logoColor=white&labelColor=blue&color=blue" />
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/SamuelRHirst/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="media/Sam_Hirst_CV.pdf" target="_blank">
-    <img alt="CV" src="https://img.shields.io/badge/CV-PDF-informational?style=flat&logo=adobeacrobatreader" />
+    <img alt="CV" src="https://img.shields.io/badge/CV-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
