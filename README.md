@@ -78,7 +78,7 @@ Most bioinformatics tutorials assume you already know what a shell is and that y
 | **Pipeline** | 150 bp PE Illumina WGS → fastp → bwa-mem2 → MarkDuplicates → GATK HaplotypeCaller → joint genotyping → hard filtering |
 | **Practice** | Runnable SLURM scripts for every stage, ~45 exercises, and a 4 MB practice dataset so you can run the whole pipeline end to end |
 
-Written for the students and collaborators I work with, but public because the gap it fills is a common one.
+Written for the students and collaborators I work with, but is hopefully helpful to anyone that comes across it.
 
 ---
 
