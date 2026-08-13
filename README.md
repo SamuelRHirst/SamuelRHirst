@@ -69,7 +69,7 @@ Mentorship is a core part of how I work, and I try to write the documentation I 
 
 **A start-from-zero guide to working on a high-performance computing cluster, aimed at biologists who have never opened a terminal.**
 
-Most bioinformatics tutorials assume you already know what a shell is and that your software is installed. This one doesn't. It starts at *"I have an SSH password and a folder of FASTQ files"* and ends with a hard-filtered SNP callset you can defend — written throughout for **non-model organisms**, where there's no dbSNP, no curated truth set, and much of the official documentation quietly assumes you're working on humans.
+Most bioinformatics tutorials assume you already know what a shell is and that your software is installed. This one doesn't. It starts at *"I have an SSH password and a folder of FASTQ files"* and ends with a hard-filtered SNP callset you can defend — written throughout for **non-model, diploid organisms**.
 
 | | |
 |---|---|
