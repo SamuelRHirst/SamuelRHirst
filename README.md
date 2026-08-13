@@ -59,7 +59,26 @@ Although most of my work centers on analysis using established bioinformatics so
 
 Stay tuned as I build these out and share them publicly!
 
+---
 
+##  Teaching &amp; Open Resources
+
+Mentorship is a core part of how I work, and I try to write the documentation I wish I'd had when I started.
+
+###  [Bioinformatics_Basics](https://github.com/SamuelRHirst/Bioinformatics_Basics)
+
+**A start-from-zero guide to working on a high-performance computing cluster, aimed at biologists who have never opened a terminal.**
+
+Most bioinformatics tutorials assume you already know what a shell is and that your software is installed. This one doesn't. It starts at *"I have an SSH password and a folder of FASTQ files"* and ends with a hard-filtered SNP callset you can defend — written throughout for **non-model organisms**, where there's no dbSNP, no curated truth set, and much of the official documentation quietly assumes you're working on humans.
+
+| | |
+|---|---|
+| **Foundations** | The terminal and SSH, login vs. compute nodes, SLURM job scripts and arrays, project organization, shell scripting |
+| **Tooling** | Environment modules, then [pixi](https://pixi.prefix.dev/) for reproducible lockfile-backed environments; using an AI coding agent for cluster work |
+| **Pipeline** | 150 bp PE Illumina WGS → fastp → bwa-mem2 → MarkDuplicates → GATK HaplotypeCaller → joint genotyping → hard filtering |
+| **Practice** | Runnable SLURM scripts for every stage, ~45 exercises, and a 4 MB practice dataset so you can run the whole pipeline end to end |
+
+Written for the students and collaborators I work with, but public because the gap it fills is a common one.
 
 ---
 
